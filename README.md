@@ -5,6 +5,10 @@
 * Ayud. Lab.:	Osvaldo Baruch Acevedo Badillo
 ### Proyecto final: Perceptrón multicapa para clasificación de géneros musicales.
 
+## Integrantes:
+* Jorge Francisco Cortés López - 314330981
+* Sandra del Mar Soto Corderi - ...
+
 Este repositorio contiene el código y conjunto de datos para el modelo de red neuronal
 que tiene la arquitectura de perceptrón multicapa el cual busca dar una solución al
 problema de clasificación de géneros musicales usando diferentes características que
