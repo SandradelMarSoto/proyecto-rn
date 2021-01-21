@@ -7,7 +7,7 @@
 
 ## Integrantes:
 * Jorge Francisco Cortés López - 314330981
-* Sandra del Mar Soto Corderi - ...
+* Sandra del Mar Soto Corderi - 31570726
 
 Este repositorio contiene el código y conjunto de datos para el modelo de red neuronal
 que tiene la arquitectura de perceptrón multicapa el cual busca dar una solución al
