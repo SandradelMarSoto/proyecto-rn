@@ -22,6 +22,8 @@ Otras bibliotecas también fueron de utilidad como:
 * pandas
 * numpy
 * seaborn
+* matplotlib
+* scikitlearn
 
 Además de que el proyecto será presentado en una libreta de jupyter para seguir el modelo
 para una mejor secuencialidad.
