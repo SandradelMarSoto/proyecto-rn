@@ -29,6 +29,9 @@ Además de que el proyecto será presentado en una libreta de jupyter para segui
 para una mejor secuencialidad.
 
 Recursos de investigación:
--
--
--
+- Nieminen, P. Classification and Multilayer Perceptron Neural Networks.
+- https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html
+- https://www.datasklr.com/select-classification-methods/multi-layer-perceptron
+- http://cs229.stanford.edu/proj2011/GoelPadial-MusicMoodClassification.pdf
+- Li, H., Xue, S., & Zhang, J. Combining CNN and Classical Algorithms for Music Genre Classification.
+- Choi, K., Fazekas, G., Cho, K., & Sandler, M. (2017). A tutorial on deep learning for music information retrieval. arXiv preprint arXiv:1709.04396.
